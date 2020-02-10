@@ -1,4 +1,5 @@
-# Semester-Project
+## Name: Meghnath Pokharel
+
 ## Title
 Heat susceptibility index as a measure of High night temperature tolerance in winter canola.  
 ## Objectives
