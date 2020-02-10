@@ -5,15 +5,21 @@ Heat susceptibility index as a measure of High night temperature tolerance in wi
 Write a python code to calculate heat susceptibility indices (HSI) for yield and seed quality traits in response to high night temperature (HNT) in winter canola.
 ## Inputs
 For experiment 1and 2 - Individual .csv file with the following columns: Cultivars (C), Treatments (T), Replications (R), total pod number (TPN), total seed weight (TSW), oil content (OC), protein content (PC)
-HSI is calculated as by using the formula as suggested by Fisher and Maurer (1978). 
+
+HSI is calculated as by using the following formula as suggested by Fisher and Maurer (1978).
+
 HSI = [l-YD/YP]/D
-Where, YD represents mean of the genotypes in HNT stress, YP represents mean of the genotypes under control. D represents 1- [mean YD of all genotypes/mean YP of all genotypes].
+
+Where, YD represents mean of the genotypes in HNT stress, YP represents mean of the genotypes under control.
+D represents 1- [mean YD of all genotypes/mean YP of all genotypes].
 
 
 ## Outputs
-1.	Heat susceptibility index values for yield and oil quality traits (table).
-2.	Correlations between experiment 1 and experiment 2. (graphs)
-3.	Classify the winter canola cultivars in to resistant and susceptible.
+1.Heat susceptibility index values for yield and oil quality traits (table).
+
+2.Correlations between experiment 1 and experiment 2. (graphs)
+
+3.Classify the winter canola cultivars in to resistant and susceptible.
 
 
 ## Rationale
@@ -26,5 +32,6 @@ Canola (Brassica napus L.) is an economically valuable oilseed crop and the cult
 
 ## References
 Angadi, S. V., Cutforth, H. W., Miller, P. R., McConkey, B. G., Entz, M. H., Brandt, S. A., & Volkmar, K. M. (2000). Response of three Brassica species to high temperature stress during reproductive growth. Canadian Journal of Plant Science, 80(4), 693-701. 
+
 Young, L. W., Wilen, R. W., & Bonham‐Smith, P. C. (2004). High temperature stress of Brassica napus during flowering reduces micro‐and megagametophyte fertility, induces fruit abortion, and disrupts seed production. Journal of Experimental Botany, 55(396), 485-495. 
 
