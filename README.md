@@ -1,13 +1,16 @@
-**Name**: Meghnath Pokharel
-**Semester**: Spring 2020
-**Project Area**: Agronomy
+# Name: Meghnath Pokharel
+# Semester: Spring 2020
+# Project Area: Agronomy
 
 ## Title
 Heat susceptibility index as a measure of High night temperature tolerance in winter canola.  
 ## Objectives
 Write a python code to calculate heat susceptibility indices (HSI) for yield and seed quality traits in response to high night temperature (HNT) in winter canola.
 ## Inputs
-For experiment 1 and 2 - Individual .csv file with the following columns: Cultivars (C), Treatments (T), Replications (R), total pod number (TPN), total seed weight (TSW), oil content (OC), protein content (PC)
+Two important traits,total seed weight and oil content will be considered for calculating heat susceptibility indices for each genotype from two experiments.
+For total seed weight data, two.csv files for each experiment with the following columns: genotypes (geno), Treatments (trt), Replications (rep), total seed weight (TSW). 
+
+For oil content data,two.csv files for each experiment with the following columns: genotypes (geno), Treatments (trt), Replications (rep) and oil content (OC)
 
 HSI is calculated as by using the following formula as suggested by Fisher and Maurer (1978).
 
