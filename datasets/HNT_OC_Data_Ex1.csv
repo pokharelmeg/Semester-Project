@@ -11,7 +11,7 @@ Edimax CL,Control,3,43.69
 Edimax CL,HNT,1,40.05
 Edimax CL,HNT,2,43.43
 Edimax CL,HNT,3,38.33
-Popular,Control,1,42.00
+Popular,Control,1,42
 Popular,Control,2,43.18
 Popular,Control,3,40.76
 Popular,HNT,1,38.28
@@ -30,16 +30,16 @@ Wichita,HNT,1,39.09
 Wichita,HNT,2,37.09
 Wichita,HNT,3,35.62
 Riley,Control,1,41.13
-Riley,Control,2,39.80
-Riley,Control,3,m
+Riley,Control,2,39.8
+Riley,Control,3,
 Riley,HNT,1,39.74
 Riley,HNT,2,38.25
 Riley,HNT,3,39.13
 DKW44-10,Control,1,33.91
 DKW44-10,Control,2,35.03
 DKW44-10,Control,3,36.74
-DKW44-10,HNT,1,31.50
-DKW44-10,HNT,2,32.10
+DKW44-10,HNT,1,31.5
+DKW44-10,HNT,2,32.1
 DKW44-10,HNT,3,31.79
 DKW46-15,Control,1,40.16
 DKW46-15,Control,2,43.55
@@ -52,10 +52,10 @@ HyCLASS225W,Control,2,42.19
 HyCLASS225W,Control,3,44.48
 HyCLASS225W,HNT,1,37.02
 HyCLASS225W,HNT,2,38.17
-HyCLASS225W,HNT,3,m
+HyCLASS225W,HNT,3,
 Hekip,Control,1,41.07
-Hekip,Control,2,41.70
-Hekip,Control,3,m
+Hekip,Control,2,41.7
+Hekip,Control,3,
 Hekip,HNT,1,38.46
 Hekip,HNT,2,33.97
 Hekip,HNT,3,34.33
