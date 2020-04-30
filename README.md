@@ -10,7 +10,7 @@ Write a python code to calculate heat susceptibility indices (HSI) for yield and
 Two important traits,total seed weight and oil content will be considered for calculating heat susceptibility indices for each genotype from two experiments.
 For total seed weight data, two.csv files for each experiment with the following columns: genotypes (geno), Treatments (trt), Replications (rep), total seed weight (TSW). 
 
-For oil content data,two.csv files for each experiment with the following columns: genotypes (geno), Treatments (trt), Replications (rep) and oil content (OC)
+For oil content data,two.csv files for each experiment with the following columns: genotypes (geno), Treatments (trt), Replications (rep) and oil content (OC).
 
 HSI is calculated as by using the following formula as suggested by Fisher and Maurer (1978).
 
@@ -25,7 +25,7 @@ D represents 1- [mean YD of all genotypes/mean YP of all genotypes].
 
 2.Correlations between experiment 1 and experiment 2. (graphs)
 
-3.Classify the winter canola cultivars in to resistant and susceptible.
+3.Classify the winter canola genotypes in to tolerant and susceptible.
 
 
 ## Rationale
