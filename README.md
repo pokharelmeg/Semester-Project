@@ -1,8 +1,6 @@
-# Name: Meghnath Pokharel
-# Semester: Spring 2020
-# Project Area: Agronomy
 
-## Title
+
+#Title
 Heat susceptibility index as a measure of High night temperature tolerance in winter canola.  
 ## Objectives
 Write a python code to calculate heat susceptibility indices (HSI) for yield and seed quality traits in response to high night temperature (HNT) in winter canola.
