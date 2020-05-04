@@ -17,7 +17,7 @@ This program uses a total seed weight per plant(g) data file collected from ten 
 
 HSI is calculated as by using the following formula as suggested by Fisher and Maurer (1978).
 
-$$HSI = \frac{1-\frac{YD}{YP}}{D}$$
+HSI = [1-YD/YP]/D
 
 
 Where, YD represents mean of the genotypes in HNT stress, YP represents mean of the genotypes under control.
